@@ -1,0 +1,19 @@
+Datastructures& algorithms
+Gradle
+Git   wselt l hna
+
+Github
+gitlab
+bitbucket
+
+
+
+Git Tutoriel:
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+$ git config --global core.editor <namelog> //faire le lien entre Git et l'editeur de texte
+git init <project directory> //Pointing git init to an existing project directory will execute the same initialization setup as mentioned above, but scoped to that project directory
+$git clone <repo url> //git clone is used to create a copy or clone of remote repositories. You pass git clone a repository URL. 
+t e s t   c o n t e n t   f o r   g i t   t u t o r i a l 
+echo "test content for git tutorial" >> avancement.txt // pour ecrire test content for git tutorial dans avancement.txt apres avoir utiliser cd pour aller au dossier du fichier
+ 
