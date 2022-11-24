@@ -22,3 +22,9 @@ $echo "test content for git tutorial" >> avancement.txt // pour ecrire test cont
 $git status
 $git log // to show the history of commits in our projects 
 $git add avancement.txt // to save the changes 
+$ vi avancement.txt // to write int avancement.txt
+$ cat avancement.txt // to show us the content of our file
+
+$git reset SHA // awel haja SHA heya "11b87f1dbb8fd467e3411d2d82a19fd121d13dfa" id taa wahda ml history w ki naaml reset SHA li jew baad l SHA heki yetfaskhou lkol
+$ git stash // is about to add the modification not to the history off our repos but to the back of our repos
+$ git stash pop // is about to get the modificcation from the back to the front
