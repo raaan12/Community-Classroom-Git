@@ -27,3 +27,5 @@ $git remote add origin https://github.com/raaan12/Community-Classroom-Git //conn
 //---->sooo femote means that we are looking for an URL/ add is about to add an URl/ and origin basicly means the name of the URL tha you are adding 
 
 $git remote -v // show all the URl attached for my folder 
+$ git branch feature // creating a new branch named feature
+$ git checkout feature //
