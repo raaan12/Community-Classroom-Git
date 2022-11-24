@@ -21,3 +21,4 @@ t e s t   c o n t e n t   f o r   g i t   t u t o r i a l
 $echo "test content for git tutorial" >> avancement.txt // pour ecrire test content for git tutorial dans avancement.txt apres avoir utiliser cd pour aller au dossier du fichier
 $git status
 $git log // to show the history of commits in our projects 
+$git add avancement.txt // to save the changes 
