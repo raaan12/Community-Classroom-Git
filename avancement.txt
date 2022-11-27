@@ -29,3 +29,4 @@ $git remote add origin https://github.com/raaan12/Community-Classroom-Git //conn
 $git remote -v // show all the URl attached for my folder 
 $ git branch feature // creating a new branch named feature
 $ git checkout feature //
+$ git push origin master// to push my project on github //origin we are locking to the branch where we are going to push
