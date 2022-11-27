@@ -12,6 +12,7 @@ $echo "test content for git tutorial" >> avancement.txt // pour ecrire test cont
 $git status
 $git log // to show the history of commits in our projects 
 $git add avancement.txt // to save the changes 
+git commit -m "avancement.txt modified" // to describe what is the changes
 $ vi avancement.txt // to write int avancement.txt
 $ cat avancement.txt // to show us the content of our file
 
@@ -30,3 +31,11 @@ $git remote -v // show all the URl attached for my folder
 $ git branch feature // creating a new branch named feature
 $ git checkout feature //
 $ git push origin master// to push my project on github //origin we are locking to the branch where we are going to push
+
+**************working with existing project in github*************
+befoore doing any things you should copy the project because you don't have access to this version so you can't do anything
+1. use "fork" to copy the project in your account
+2. clone it to your own pc
+$git remote add upstream git@github.com:Clovers4/cafe-j2ee.git
+$ git branch rania // create new branch rania
+git checkout rania // switch the head to the branch rania
